@@ -1,0 +1,41 @@
+.resume-section-heading-custom {
+  position: relative;
+  padding-left: 2rem;
+  font-size: 1.125rem;
+  letter-spacing: 0.15rem;
+  color: #54b689;
+}
+
+.resume-section-heading-custom-company {
+  padding-left: 2rem;
+  font-size: 1.125rem;
+  letter-spacing: 0.15rem;
+  color: #54b689;
+}
+
+.content-height-line {
+  border-left: 1px solid #2929297e;
+  padding-left: 20px;
+  margin-left: 35px;
+  padding-top: 10px;
+}
+
+.green-box {
+  margin-left: 2rem;
+  content: "";
+  display: inline-block;
+  width: 5px;
+  background: #54b689;
+}
+
+.green-box-company {
+  content: "";
+  width: 10px;
+  background: #54b689;
+}
+
+.height-line {
+  margin-left: 2rem;
+  content: "";
+  width: 1px;
+}
